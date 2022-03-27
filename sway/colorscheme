@@ -1,0 +1,7 @@
+# class                 border  backgr. text    indicator
+client.focused          #a7c080 #a7c080 #4b565c #a7c080
+client.unfocused        #4b565c #4b565c #d3c6aa #4b565c
+client.focused_inactive #4b565c #4b565c #4b565c #4b565c
+client.placeholder      #4b565c #4b565c #4b565c #4b565c
+client.urgent           #e67e80 #e67e80 #d3c6aa #e67e80
+client.background       #2b3339
